@@ -5,11 +5,11 @@ A Safari extension to collapse .pbxproj from diffs in GitHub. Actually, you can 
 From this rant:
 ![](images/rant.png)
 
-To this:
+To this (click to download):
 
-![](images/extension.gif)
+[![](images/extension.gif)]((releases/pbxproj-1.0.0.safariextz))
 
-# Instalation
+# Installation
 
 Clone the repo and use Safari Extension Builder or just download the lastest release:
 
